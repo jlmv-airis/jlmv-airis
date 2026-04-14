@@ -18,7 +18,8 @@ Soy Desarrollador y Especialista en Tecnología en **AIRIS**, donde me enfoco en
 - **Especialidad:** Automatización de procesos (RPA + AI), Integración de Modelos de Lenguaje (LLMs) y Arquitecturas Serverless.
 - **Enfoque en AIRIS:** Desarrollo de herramientas propietarias de alta eficiencia para la optimización de flujos empresariales.
 - **Filosofía de Trabajo:** "Si se repite más de dos veces, debe ser automatizado e inteligente".
-
+  
+![](https://img.shields.io/badge/Location-CDMX-00D1B2?style=flat-square&logo=googlemaps&logoColor=white)
 ---
 
 ## 🛠️ Stack Tecnológico
