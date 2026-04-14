@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner-jorge.webp" alt="Jorge Meneses AI Specialist Banner" width="100%">
+</p>
+
 # 🤖 Jorge Meneses | AI Automation Specialist
 
 ### Transformando flujos de trabajo mediante Inteligencia Artificial y Arquitectura de Datos.
