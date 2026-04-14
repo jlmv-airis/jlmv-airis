@@ -43,7 +43,11 @@ Debido a acuerdos de confidencialidad (NDA), la mayoría de mi trabajo reside en
 ![AI Automation](https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 ![AIRIS Stack](https://img.shields.io/badge/AIRIS_Stack-00D1B2?style=for-the-badge&logo=cloud&logoColor=white)
 ---
-
+### 🛠️ Tecnologías Principales en AIRIS
+![](https://img.shields.io/badge/Focus-AI_Automation-blue?style=for-the-badge&logo=openai)
+![](https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/Company-AIRIS-00D1B2?style=for-the-badge)
 ## 📫 Contacto & Conectividad
 
 ¿Interesado en la intersección entre IA y eficiencia operativa? ¡Conectemos!
