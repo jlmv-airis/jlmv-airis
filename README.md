@@ -52,8 +52,7 @@ Debido a acuerdos de confidencialidad (NDA), la mayoría de mi trabajo reside en
 
 ¿Interesado en la intersección entre IA y eficiencia operativa? ¡Conectemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN_AQUI)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@dominio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.meneses@airis-ae.com.mx)
 
 ---
 <p align="center">
