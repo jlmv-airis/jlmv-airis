@@ -1,5 +1,6 @@
-<img width="2752" height="1536" alt="banner-ia" src="https://github.com/user-attachments/assets/6255de21-c8be-45bc-8f3f-92f2dfe239b1" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jlmv-airis/jlmv-airis/main/banner-jorge.png" alt="Jorge Meneses AI Specialist Banner" width="850">
+</p>
 
 # 🤖 Jorge Meneses | AI Automation Specialist
 
