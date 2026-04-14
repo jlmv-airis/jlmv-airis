@@ -5,7 +5,7 @@
 
 
 
-# 🤖 Jorge Meneses | AI Automation Specialist
+# 🤖🚀 Elevando la eficiencia con Inteligencia Artificial
 
 ### Transformando flujos de trabajo mediante Inteligencia Artificial y Arquitectura de Datos.
 
