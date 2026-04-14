@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-jorge.webp" alt="Jorge Meneses AI Specialist Banner" width="100%">
+  <img src="banner-jorge.png" alt="Jorge Meneses AI Specialist Banner" width="100%">
 </p>
 
 # 🤖 Jorge Meneses | AI Automation Specialist
