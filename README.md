@@ -41,8 +41,9 @@ Debido a acuerdos de confidencialidad (NDA), la mayoría de mi trabajo reside en
 ## 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlmv-airis&show_icons=true&theme=transparent&title_color=00d1b2&text_color=ffffff&icon_color=00d1b2&border_color=444" alt="Stats de Jorge" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlmv-airis&layout=compact&theme=transparent&title_color=00d1b2&text_color=ffffff&border_color=444" alt="Lenguajes más usados" />
+![Stats de Jorge](https://github-readme-stats.vercel.app/api?username=jlmv-airis&show_icons=true&theme=radical&title_color=00d1b2&icon_color=00d1b2)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jlmv-airis&layout=compact&theme=radical&title_color=00d1b2)
 </p>
 
 ---
