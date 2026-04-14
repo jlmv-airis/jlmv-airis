@@ -19,7 +19,6 @@ Soy Desarrollador y Especialista en Tecnología en **AIRIS**, donde me enfoco en
 - **Enfoque en AIRIS:** Desarrollo de herramientas propietarias de alta eficiencia para la optimización de flujos empresariales.
 - **Filosofía de Trabajo:** "Si se repite más de dos veces, debe ser automatizado e inteligente".
   
-![](https://img.shields.io/badge/Location-CDMX-00D1B2?style=flat-square&logo=googlemaps&logoColor=white)
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -58,10 +57,9 @@ Debido a acuerdos de confidencialidad (NDA), la mayoría de mi trabajo reside en
 ![](https://img.shields.io/badge/Company-AIRIS-00D1B2?style=for-the-badge)
 ## 📫 Contacto & Conectividad
 
-¿Interesado en la intersección entre IA y eficiencia operativa? ¡Conectemos!
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge.meneses@airis-ae.com.mx)
 
+¿Interesado en la intersección entre IA y eficiencia operativa? ¡Conectemos!
 ---
 <p align="center">
   <i>"Construyendo el futuro de la automatización en AIRIS"</i>
