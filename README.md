@@ -38,12 +38,10 @@ Debido a acuerdos de confidencialidad (NDA), la mayoría de mi trabajo reside en
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Stats de Jorge](https://github-readme-stats.vercel.app/api?username=jlmv-airis&show_icons=true&theme=radical&title_color=00d1b2&icon_color=00d1b2)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jlmv-airis&layout=compact&theme=radical&title_color=00d1b2)
-
+### 📊 Actividad y Especialidad
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![AIRIS Stack](https://img.shields.io/badge/AIRIS_Stack-00D1B2?style=for-the-badge&logo=cloud&logoColor=white)
 ---
 
 ## 📫 Contacto & Conectividad
